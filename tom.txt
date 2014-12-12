@@ -2,3 +2,6 @@ This is a test
 file from tom
 
 Add some new text!
+
+Add more text
+
